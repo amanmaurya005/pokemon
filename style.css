@@ -101,3 +101,8 @@ section{
    padding: 20px 0;
    border-radius: 20px;
 }
+#noResultMsg{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
